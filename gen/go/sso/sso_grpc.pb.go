@@ -4,7 +4,7 @@
 // - protoc             v6.33.4
 // source: sso/sso.proto
 
-package rpik_sso_v1_ssov1
+package authpb
 
 import (
 	context "context"
